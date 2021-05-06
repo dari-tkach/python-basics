@@ -1,0 +1,5 @@
+Ivanov 130000
+Petrov 10000
+Gorbachev 35000
+Nikulin 100000
+Leonov 5000
